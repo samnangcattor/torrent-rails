@@ -1,0 +1,2 @@
+class TorrentsController < ApplicationController
+end
